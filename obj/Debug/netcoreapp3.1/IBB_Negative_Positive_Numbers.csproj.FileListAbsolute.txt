@@ -1,0 +1,13 @@
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/bin/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/bin/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.deps.json
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/bin/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.runtimeconfig.json
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/bin/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.runtimeconfig.dev.json
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/bin/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.dll
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/bin/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.pdb
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/obj/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.csprojAssemblyReference.cache
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/obj/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.AssemblyInfoInputs.cache
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/obj/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.AssemblyInfo.cs
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/obj/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.csproj.CoreCompileInputs.cache
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/obj/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.dll
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/obj/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.pdb
+/home/bbk/netCoreProjects/IBB_Negative_Positive_Numbers/obj/Debug/netcoreapp3.1/IBB_Negative_Positive_Numbers.genruntimeconfig.cache
